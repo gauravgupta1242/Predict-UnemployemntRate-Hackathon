@@ -1,0 +1,11 @@
+Time Period,Unemployment_Rate,Unemployment_Rate_Type,Url,Country,Source
+Nov-22,"1,068.20",Unemployment 13,https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=1410028701,Canada,Exl
+Dec-22,"1,043.40",Unemployment 13,https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=1410028701,Canada,Exl
+Jan-23,"1,046.00",Unemployment 13,https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=1410028701,Canada,Exl
+Feb-23,"1,066.40",Unemployment 13,https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=1410028701,Canada,Exl
+Mar-23,"1,053.00",Unemployment 13,https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=1410028701,Canada,Exl
+Nov-22,5.1,Unemployment rate 14,https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=1410028701,Canada,Exl
+Dec-22,5,Unemployment rate 14,https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=1410028701,Canada,Exl
+Jan-23,5,Unemployment rate 14,https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=1410028701,Canada,Exl
+Feb-23,5,Unemployment rate 14,https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=1410028701,Canada,Exl
+Mar-23,5,Unemployment rate 14,https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=1410028701,Canada,Exl
